@@ -58,7 +58,7 @@ eks:
   enable: false
 
 extensions-oidc:
-  createNamespace: true
+  createNamespace: false
   enable: true
 
 external-secrets:
@@ -148,7 +148,7 @@ sonar:
 
 sonar-operator:
   createNamespace: false
-  enable: false
+  enable: true
 
 storage-class:
   enable: false
