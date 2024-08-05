@@ -1,5 +1,5 @@
 extensionsOIDC:
-  keycloakUrl: "https://keycloak.example.com"
+  keycloakUrl: https://sec.dpm.sdlc.app.cbrands.com/auth/"
   # Recommended to utilize this realm primarily for enabling unique integrations and
   # inheriting these capabilities into other realms.
   broker:
