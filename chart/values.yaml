@@ -59,7 +59,7 @@ eks:
 
 extensions-oidc:
   createNamespace: false
-  enable: false
+  enable: true
 
 external-secrets:
   createNamespace: false
